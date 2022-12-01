@@ -1,0 +1,28 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "8f17ee2abff60bd5142b2d3d7687a85731b007ac0d877e5280680b7f510f94ec"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.8"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "pysyslogclient": {
+            "hashes": [
+                "sha256:dde5c514c79bb2fd9ccc47b2e036ecaa6f59c5c354d4d1f14a6611c5386ea77c"
+            ],
+            "index": "pypi",
+            "version": "==0.1.1"
+        }
+    },
+    "develop": {}
+}
