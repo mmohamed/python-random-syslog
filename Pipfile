@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 pysyslogclient = "*"
+rfc5424-logging-handler = "*"
 
 [dev-packages]
 
