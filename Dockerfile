@@ -1,6 +1,6 @@
 FROM python:3
 
-RUN pip install pysyslogclient
+RUN pip install pysyslogclient rfc5424-logging-handler
 
 WORKDIR /var/app
 
